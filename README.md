@@ -1,7 +1,7 @@
 
 ### Hit Counter
 
-![Visitor Count](https://profile-counter.glitch.me/gchhablani/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mahimanzum/count.svg)
 
 ![](https://komarev.com/ghpvc/?username=mahimanzum&color=green)
 ### Hi there 👋
