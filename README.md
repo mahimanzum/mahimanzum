@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahimanzum)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<img align="left" alt="Mahim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahimanzum&show_icons=true&hide_border=true" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimanzum"/>
+
+
