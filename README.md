@@ -1,3 +1,8 @@
+
+### Hit Counter
+
+![Visitor Count](https://profile-counter.glitch.me/gchhablani/count.svg)
+
 ![](https://komarev.com/ghpvc/?username=mahimanzum&color=green)
 ### Hi there 👋
 My name is Md Mahim Anjum Haque, AKA Mahim. I am a Ph.D. candidate at the Computer Science department of Virginia Polytechnique Institute and State University(Vtech). I work on the intersection of Artificial Intelligence and Software Systems. My research concentration is Automation of Software Engineering Systems using Machine Learning. Over the years, I developed tools for program bug fixing, vulnerability detection, and modeling program changes. I am also interested in automatic code generation from Natural Language and Library learning, abstraction from a Domain Specific Language. I work on problems where I can apply the knowledge I gained throughout my Ph.D. career as well as learn new things to embrace new challenges. I am also a competitive programmer by passion and try to participate in codeforces contests regularly.
