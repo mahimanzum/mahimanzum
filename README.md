@@ -6,6 +6,10 @@
 ![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/rating.svg)
 
+![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/light_card.svg)
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pantho?ext=contest)
 
 ### Hi there 👋
@@ -24,9 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/light_card.svg)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahimanzum)](https://github.com/ryo-ma/github-profile-trophy)
 
