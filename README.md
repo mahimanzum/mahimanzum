@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-cf_stats/tree/main/output
 ![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/max_rating.svg)
@@ -32,4 +31,9 @@ cf_stats/tree/main/output
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimanzum"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimanzum&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/rating.svg)
 
