@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimanzum&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/mahimanzum/cf-stats/tree/main/output/rating.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/rating.svg)
 
