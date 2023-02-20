@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/mahimanzum/cf-stats/main/output/rating.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahimanzum)](https://github.com/ryo-ma/github-profile-trophy)
 
 
