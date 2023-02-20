@@ -6,6 +6,8 @@
 ![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/mahimanzum/cf_stats/main/output/rating.svg)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/pantho?ext=contest)
+
 ### Hi there 👋
 Hi I am Md Mahim Anjum Haque. I am a Masters Student at the Computer Science department of Virginia Polytechnique Institute and State University (Vtech). I work on the intersection of Artificial Intelligence and Software Engineering. My research focuses on the Automation of Software Engineering Systems using Machine Learning. I Published in top-tier conferences Like ACL, IST, ICANN, HORA. Over the years, I developed tools for program bug fixing, vulnerability detection, and modeling program changes. I am also interested in automatic code generation from Natural Language and Library learning, abstraction from a Domain-Specific Language. I am skilled in Full-Stack Deep Learning and created industry-standard deep learning tools and deployed them using Docker and Kubernetes. I am also Skilled in Python, C++, Java, Distributed training of deep learning models using Pytorch, Tensorflow, Keras etc. I work on problems where I can apply the knowledge I gained throughout my job, Undergrad, and Ph.D. career as well as learn new things to embrace new challenges. I am also a competitive programmer by passion and try to participate regularly in codeforces, leetcode contests and I have solved more than 2 thousand problems in various platforms online and offline.
 <!--
